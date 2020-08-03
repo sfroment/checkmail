@@ -3,7 +3,7 @@ package checkmail_test
 import (
 	"testing"
 
-	"github.com/badoux/checkmail"
+	"github.com/sfroment/checkmail"
 )
 
 var (

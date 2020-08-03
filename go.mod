@@ -1,3 +1,3 @@
-module github.com/badoux/checkmail
+module github.com/sfroment/checkmail
 
 go 1.14
